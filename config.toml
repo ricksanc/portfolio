@@ -1,5 +1,6 @@
 baseURL = "https://sdhanshu.github.io"
 title = "Sudhanshu Choudhary"
+googleAnalytics = "UA-154792779-1"
 theme = "erblog"
 paginate = 3
 languageCode = "en"
@@ -8,6 +9,7 @@ enableInlineShortcodes = true
 footnoteReturnLinkContents = "^"
 
 [params]
+    portrait = "PHOTO.jpg"
     author = "Sudhanshu Choudhary"
     description = "Student | Programmer"
     bio = """
