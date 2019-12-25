@@ -13,9 +13,9 @@ footnoteReturnLinkContents = "^"
     author = "Sudhanshu Choudhary"
     description = "Student | Programmer"
     bio = """
-    <p> I am a 13 years old Programmer. I am an 8th grade student at Kendriya Vidhyalya. I live in Delhi, India. Preparing for the upcoming exams.</p>
+    <p> I am a Programmer who is 13 years old. I am an 8th grade student at Kendriya Vidhyalya. I live in India, Delhi. Trying to prepare for the upcoming examinations.</p>
     <br />
-    <p>I love to code and solve problems. I have worked with programming languages like Python and C++. Experienced working with Google Actions and currently participating in Google Code-In (GCI).</p>
+    <p> I enjoy Programming and Problem Solving. I have worked with programming languages like Python and C++. Experienced working with Google Actions and participating in Google Code-In (GCI) at the moment.</p>
     """
     copyright = "Copyright © 2008–2019, Steve Francia and the Hugo Authors; all rights reserved."
 
@@ -45,10 +45,15 @@ tag = "tags"
 [[menu.icon]]
     url = "mailto:sudhanshuchoudhary2005@gmail.com"
     name = "envelope-o"
-    weight = 1
+    weight = 2
 
 [[menu.icon]]
     url = "https://github.com/sdhanshu"
     name = "github"
     weight = 1
 
+[[menu.icon]]
+    url = "https://gitter.im/ricksanc"
+    name = "comments"
+    weight = 3
+    
