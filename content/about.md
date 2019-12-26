@@ -8,7 +8,7 @@ draft: false
 
  # *Introduction*
 
- **Sudhanshu Choudhary is my name. I am a thirteen years old Indian boy. And I am a programmer who's young. I enjoy Coding and Problem Solving. Experienced with programming languages as Python and C++. I love listening to music, a lot! I reside in India, Delhi. I am an eighth grade student at *Kendriya Vidyalaya*.** 
+ **My name is Sudhanshu Choudhary. I am a thirteen years old Indian boy. And I am a programmer who's young. I enjoy Coding and Problem Solving. Experienced with programming languages as Python and C++. I love listening to music, a lot! I reside in India, Delhi. I am an eighth grade student at *Kendriya Vidyalaya*.** 
  
  # *Achievements*
 
