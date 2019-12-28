@@ -24,4 +24,4 @@ draft: false
 
  # *Contact Me*
 
- **To contact me, You can *[mail me](mailto:sudhanshuchoudhary2005@gmail.com)* or you can go to my *[Gitter](https://gitter.im/ricksanc)*.**
+ **To contact me, You can *[mail me](mailto:sudhanshuchoudhary2005@gmail.com)*, you can go to my *[Gitter](https://gitter.im/ricksanc)* or you can go to my *[LinkedIn](https://www.linkedin.com/in/sudhanshu-choudhary-583a1519a/)*.**
