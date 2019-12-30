@@ -8,15 +8,11 @@ draft: false
 
  # *Introduction*
 
- **My name is Sudhanshu Choudhary. I am a thirteen years old Indian boy. And I am a programmer who's young. I enjoy Coding and Problem Solving. Experienced with programming languages as Python and C++. I love listening to music, a lot! I reside in India, Delhi. I am an eighth grade student at *Kendriya Vidyalaya*.** 
+ **My name is Sudhanshu Choudhary. I am a thirteen years old Indian boy. And I am a young programmer. I enjoy Coding and Problem Solving. Experienced with programming languages as Python and C++. I love listening to music, a lot! I reside in India, Delhi. I am an eighth grade student at *Kendriya Vidyalaya*.** 
  
  # *Achievements*
 
  **Developer of the action called *[Doctor Colors Questions](https://assistant.google.com/services/a/uid/000000ff4bd587f6?hl=en)* on the Google Assistant app. Have won swag such as Google T-Shirt and a Google Home from *[Google](https://www.google.com)*, a T-Shirt and some Stickers from *[Hacktoberfest](https://hacktoberfest.digitalocean.com/)*.**
-
- # *Swag*
-
- ****
 
  # *At the moment*
 
