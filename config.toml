@@ -13,9 +13,9 @@ footnoteReturnLinkContents = "^"
     author = "Sudhanshu Choudhary"
     description = "Student | Programmer"
     bio = """
-    <p> I am a 13 years old Programmer . I am an 8th grade student at Kendriya Vidhyalaya. I live in India, Delhi. Preparing for the upcoming examinations.</p>
+    <p> I am a 13 years old Programmer . I am an 8th grade student at Kendriya Vidhyalaya. I live in Delhi, India. Preparing for the upcoming examinations.</p>
     <br />
-    <p> I enjoy Programming and Problem Solving. I have worked with programming languages like Python and C++. Experienced working with Google Actions and in Hacktoberfest. Currently Participating in Google Code-In (GCI).</p>
+    <p> I enjoy Programming and Problem Solving. I have worked with programming languages like Python and C++. Experienced working with Google Actions and in Hacktoberfest. Currently Participating in Google Code-In (GCI) and learning a Python Library called Manim.</p>
     """
     copyright = "Copyright © 2008–2019, Steve Francia and the Hugo Authors; all rights reserved."
 
