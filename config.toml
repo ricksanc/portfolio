@@ -9,7 +9,7 @@ enableInlineShortcodes = true
 footnoteReturnLinkContents = "^"
 
 [params]
-    portrait = "PHOTO.jpg"
+    portrait = "photo.jpg"
     author = "Sudhanshu Choudhary"
     description = "Student | Programmer"
     bio = """
