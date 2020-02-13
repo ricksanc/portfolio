@@ -16,7 +16,7 @@ draft: false
 
  # *At the moment*
 
- **Participating in *[Google Code-In (GCI)](https://codein.withgoogle.com/)*. Preparing for the upcoming examinations in January. Learning the Python Library known as *[Manim](https://github.com/3b1b/manim)* which is used to make Animations/Animated Videos.**
+ **Preparing for the upcoming examinations in January. Learning the Python Library known as *[Manim](https://github.com/3b1b/manim)* which is used to make Animations/Animated Videos.**
 
  # *Contact Me*
 
