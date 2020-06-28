@@ -13,7 +13,7 @@ footnoteReturnLinkContents = "^"
     author = "Sudhanshu Choudhary"
     description = "Student | Programmer"
     bio = """
-    <p> I am a 13 years old Programmer . I am an 8th grade student at Kendriya Vidhyalaya. I live in Delhi, India. Preparing for the upcoming examinations.</p>
+    <p> I am a 14 years old Programmer . I am a 9th grade student at Kendriya Vidhyalaya. I live in Delhi, India.</p>
     <br />
     <p> I enjoy Programming and Problem Solving. I have worked with programming languages like Python and C++. Experienced working with Google Actions and in Hacktoberfest. Currently Learning a Python Library called Manim.</p>
     """
