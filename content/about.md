@@ -8,7 +8,7 @@ draft: false
 
  # *Introduction*
 
- **My name is Sudhanshu Choudhary. I am a thirteen years old Indian. And I am a young programmer. I enjoy Coding and Problem Solving. Experienced with programming languages as Python and C++. I love listening to music, a lot! I reside in Delhi, India. I am an eighth grade student at *Kendriya Vidyalaya*.** 
+ **My name is Sudhanshu Choudhary. I am a fourteen years old Indian. And I am a young programmer. I enjoy Coding and Problem Solving. Experienced with programming languages as Python and C++. I love listening to Music and watching Anime, a lot! I reside in Delhi, India. I am an nineth grade student at *Kendriya Vidyalaya*.** 
  
  # *Achievements*
 
@@ -16,7 +16,7 @@ draft: false
 
  # *At the moment*
 
- **Preparing for the upcoming examinations in January. Learning the Python Library known as *[Manim](https://github.com/3b1b/manim)* which is used to make Animations/Animated Videos.**
+ **Learning the Python Library known as *[Manim](https://github.com/3b1b/manim)* which is used to make Animations/Animated Videos.**
 
  # *Contact Me*
 
